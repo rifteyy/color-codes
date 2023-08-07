@@ -1,4 +1,6 @@
 # color-codes
+This program was inspired by sintrode's [colorPicker](https://github.com/sintrode/colorPicker).
+
 RGB color value picker for text and background.
 Windows 10/11 is required, other Windows versions are not supported.
 
